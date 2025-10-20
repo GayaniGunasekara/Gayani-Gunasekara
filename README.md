@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gayani Gunasekara</h1>
+<h1 align="center">Hello Everyone!!!, I'm Gayani Gunasekara</h1>
 <h3 align="center">Enthusiastic IT undergraduate | Software Engineer | Data Engineer | Project Manager | Business Analyst |</h3>
-
+---
 - 🔭 I’m currently working on [RideSync](https://github.com/GayaniGunasekara/RideSync)
 
 - 🌱 I’m currently learning **React , Node.js , PHP**
