@@ -18,7 +18,7 @@ I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Stru
 🏆 **NBQSA Merit Award Winner** — recognized for innovative, impactful tech solutions.  
 💡 Known for my **creativity**, **problem-solving**, and **team collaboration**.  
 
-🌐 **Portfolio:** [https://gayanigunasekara.github.io/Portfolio](https://gayanigunasekara.github.io/Portfolio)
+🌐 **Portfolio:** ((https://gayani-portfolio-website.vercel.app/))
 
 ---
 ### 🤝 Connect with Me
@@ -46,12 +46,13 @@ I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Stru
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🚗 [RideSync](https://github.com/GayaniGunasekara/RideSync) | A smart ride-sharing and route optimization system with live tracking. | React, Node.js, Firebase |
-| 🌾 [PureHarvest](https://github.com/GayaniGunasekara/PureHarvest) | Web platform connecting farmers and customers for organic produce. | React, Express, MySQL |
-| ⚙️ [Elephant Detection System](https://github.com/GayaniGunasekara/Elephant-Detection-System) | IoT-based elephant deterrent system using Arduino & Flutter. | Arduino, Flutter, Firebase |
+| 🐘 [EleFence360](https://github.com/GayaniGunasekara/EleFence360) | IoT-based elephant deterrent system using Arduino & Flutter. | IoT, Flutter, Firebase |
+| 🚗 [RideSync](https://github.com/GayaniGunasekara/RideSync) |A web-based platform connecting vehicle owners with Motor Servicing & Repair Centers  | React, Node.js, PostgreSQL |
+| 🌾 [PureHarvest](https://github.com/GayaniGunasekara/PureHarvest) | A web-based platform that connects organic farmers, fertilizer sellers, and customers directly | React, Node.js,MySQL |
+| 👨‍💼 [Employee Attrition Prediction ML Project](https://github.com/GayaniGunasekara/Employee_Attrition_Prediction_ML_Project) | A machine learning model predicts whether an employee will leave, and a Streamlit app lets HR input employee data to get real-time predictions and retention insights | PythonPandas, Scikit-learn, Streamlit, Matplotlib |
 | ☁️ [Weather Application](https://github.com/GayaniGunasekara/Weather-App) | Real-time weather updates with a modern Tkinter UI. | Python, Tkinter, API |
 | 📝 [To-Do List App](https://github.com/GayaniGunasekara/To-Do-List) | Interactive web app with drag-and-drop and dark mode. | HTML, CSS, JavaScript |
-
+| 📚 [Library Management System](https://github.com/GayaniGunasekara/Library-Management-System) |  Java-based Library Management System designed to automate library operations | Java , MySQL |
 ---
 
 ### 🛠️ Languages & Tools
