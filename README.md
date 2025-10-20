@@ -10,7 +10,6 @@
 ---
 
 ### 👩‍🎓 About Me
-### 👩‍🎓 About Me
 
 I’m an **enthusiastic IT undergraduate** passionate about **Software Development**, **AI/ML**, and **Data Science**, with a solid background in **Python**, **databases**, and **full-stack development** using **React, Node.js, and JavaScript**.  
 I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Structures & Algorithms**.  
@@ -58,7 +57,7 @@ I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Stru
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" gap="10"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
