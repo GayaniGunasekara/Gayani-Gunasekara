@@ -10,12 +10,15 @@
 ---
 
 ### 👩‍🎓 About Me
+### 👩‍🎓 About Me
 
 I’m an **enthusiastic IT undergraduate** passionate about **Software Development**, **AI/ML**, and **Data Science**, with a solid background in **Python**, **databases**, and **full-stack development** using **React, Node.js, and JavaScript**.  
 I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Structures & Algorithms**.  
 
 🏆 **NBQSA Merit Award Winner** — recognized for innovative, impactful tech solutions.  
-💡 Known for my **creativity**, **problem-solving**, and **team collaboration**.
+💡 Known for my **creativity**, **problem-solving**, and **team collaboration**.  
+
+🌐 **Portfolio:** [https://gayanigunasekara.github.io/Portfolio](https://gayanigunasekara.github.io/Portfolio)
 
 ---
 ### 🤝 Connect with Me
@@ -24,7 +27,7 @@ I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Stru
   <a href="mailto:gayanimalshagunasekara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/gayanigunasekara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/GayaniGunasekara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="tel:+94712345678"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="tel:+94718807499"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
