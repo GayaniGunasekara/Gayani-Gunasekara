@@ -125,7 +125,6 @@ I’m well-versed in **OOP**, **SDLC**, **Agile methodologies**, and **Data Stru
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayanigunasekara&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayanigunasekara&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
